@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/ParseStarterProject/build/intermediates/blame/
+/ParseStarterProject/build/intermediates/build-info/
+/ParseStarterProject/build/intermediates/builds/
+/ParseStarterProject/build/intermediates/classes/
+/ParseStarterProject/build/intermediates/classes/debug/
+/ParseStarterProject/build/intermediates/incremental/
+/ParseStarterProject/build/intermediates/incremental-classes/
+/ParseStarterProject/build/intermediates/incremental-runtime-classes/
+/ParseStarterProject/build/intermediates/incremental-safeguard/
+/ParseStarterProject/build/intermediates/incremental-verifier/
+/ParseStarterProject/build/intermediates/instant-run-resources/
+/ParseStarterProject/build/intermediates/instant-run-support/
+/ParseStarterProject/build/intermediates/javaPrecompile/
+/ParseStarterProject/build/intermediates/manifests/
+/ParseStarterProject/build/intermediates/multi-dex/
+/ParseStarterProject/build/intermediates/res/
+/ParseStarterProject/build/intermediates/restart-dex/
+/ParseStarterProject/build/intermediates/split-apk/
+/ParseStarterProject/build/intermediates/splits-support/
+/ParseStarterProject/build/intermediates/symbols/
+/ParseStarterProject/build/intermediates/transforms/
+/ParseStarterProject/build/outputs/
